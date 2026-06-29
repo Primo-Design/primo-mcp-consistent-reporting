@@ -20,6 +20,9 @@ Take all overview html files you find in html-reports and convert it to a single
 ## Convert it to PDF
 Take all overview html files you find in html-reports and convert it to a single PDF file.
 
+# Can I use Claude App
+Sure, just rename `AGENTS.md` to `CLAUDE.md`.
+
 # Setup for Primo MCP (optional)
 
 Checkout https://primo.design/mcp for instructions.
